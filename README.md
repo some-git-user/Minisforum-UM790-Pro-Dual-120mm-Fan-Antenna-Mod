@@ -13,7 +13,7 @@ I use this PC with my TV while sitting on the couch. The distance is about 4 met
 With the (ugly) antenna mod, I was able to play from the second floor without any connection drops.
 
 For the new CPU heatsink, I tried several models. Since I wanted to keep the original heatsink in place to cover the different chipsets and account for the height differences between them, the available space was limited.
-My final choice was the "Dell Precision T3500 T5500 T7500 Primary CPU Heatsink T021F." It was the largest one I could find that fit into the space after cutting the socket mounting holes, resulting in the following dimensions: width: **65 mm, height: 86 mm, depth: 90 mm**
+My final choice was the _"Dell Precision T3500 T5500 T7500 Primary CPU Heatsink T021F"_. It was the largest one I could find that fit into the space after cutting the socket mounting holes, resulting in the following dimensions: width: **65 mm, height: 86 mm, depth: 90 mm**
 Before the heatsink upgrade, I had temperatures of 75°C. After the upgrade, the temperature dropped to 51°C while the fan ran at medium speed. I used [FurMark](https://geeks3d.com/furmark/) in both cases for the GPU stress test.
 
 Besides the necessary parts listed below, you will also need to solder the DIY fan adapter, as the UM790 motherboard uses a non-standard fan connector.
