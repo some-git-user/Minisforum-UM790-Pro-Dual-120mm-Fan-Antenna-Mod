@@ -149,7 +149,7 @@ I didn't take photos of the disassembly process. Just unscrew everything until y
 
 That's it! I hope you like it.
 
-In my first attempts, I used smaller heatsinks. If you want to try it with a smaller heatsink, you can use the fan-case-small.stl part for both the top and bottom.
+In my first attempts, I used smaller heatsinks. If you want to try it with a smaller heatsink, you can use the _fan-case-small.stl_ part for both the top and bottom.
 Here are some pictures of the smaller tower:
 
 ![Done](/images/IMG_20241228_155307_800.jpg)
