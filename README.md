@@ -42,7 +42,7 @@ You will also need some basic tools for soldering, cutting, bending, insulating,
 | Heat Shrink Tubing for Electrical Insulation                         | https://amzn.to/40yh7i8             | 8                          | ![Heat Shrink Tubing for Electrical Insulation](/images/Screenshot_20250112_155048.png)                                                            |
 | Heat Resistant Tape                                                  | hhttps://amzn.to/4jaZ9tc            | 1                          | ![Heat Resistant Tape](/images/Screenshot_20250112_162531.png)                                                                                     |
 
-## 3D Printerd files
+## 3D Printed Files
 
 If you don’t have a 3D printer, I recommend [FDM-Druckservice](https://fdm-druckservice.de/produkt/fdm-designer/) for the European region. (I once ordered the Xenomorph head, which you can see on my PS5 in the cover photo, printed using this service.)
 
@@ -89,7 +89,7 @@ If you are using the same heatsink, you will need to cut the original mounting p
 ![Cutting](/images/IMG_20250111_164245_699.jpg)
 ![Cutting](/images/IMG_20250111_164239_328.jpg)
 
-### 3D parts
+### 3D Parts
 
 To connect the different parts, you will need to insert the M3 press-in nuts using a soldering iron. Watch your temperatures! You want the thread insert to slide in slowly and not get too hot, or it will simply slide through the plastic.
 
